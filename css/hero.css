@@ -17,12 +17,15 @@ h1,h2{
 	font-family: 'Mouse Memoirs', 'Georgia', sans-serif;
 }
 
+/* header styles*/
+/*write your comment here*/
+
 header h1{
 	font-size: 60px; color: #EAFAF1;
 }
 
 header img{
-	border-radius: 150px;
+	border-radius: 160px;
 	width: 300px;
 	border: 10px solid #ABEBC6;
 }
